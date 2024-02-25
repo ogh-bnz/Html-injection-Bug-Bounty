@@ -26,7 +26,7 @@ Threat Model:
 
 ![image](https://github.com/ogh-bnz/Html-injection-Bug-Bounty/assets/99647279/49a4941c-929b-46a7-a754-b3eadff408f5)
 
-3. Now, enter the specified payload in the search field.
+2. Now, enter the specified payload in the search field.
 
    `<h1 style=”color:Blue;”>TCH Community</h1>`
 
