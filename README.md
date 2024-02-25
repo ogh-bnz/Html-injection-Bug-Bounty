@@ -79,6 +79,7 @@ Threat Model:
 
 
 
+Medium Post - https://medium.com/@rhashibur75/html-injection-bug-bounty-a41f87217118
 
 # Thanks, 220
 --- --- --- --- --- --- --- --- ---
