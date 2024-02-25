@@ -1,4 +1,4 @@
-# Html-injection-Bug-Bounty-
+# Html-injection-Bug-Bounty
 ## Overview
 This repository is a collection of in-depth articles documenting the bug hunting journey within our codebase. Each article is dedicated to a specific bug, issue, or vulnerability that has been identified and resolved during the development process. [ BTW: i just used chatgpt, gemini advance and own things to write this article full filly and make it easy to read .. ]
 
